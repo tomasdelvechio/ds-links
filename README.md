@@ -2,11 +2,6 @@
 
 A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos los llego a leer, otros quedan dispersos en notas o marcadores de navegadores. La idea de este repo es tenerlos todos compilados y a mano, con alguna categorización mínima.
 
-## Writing
-
-- [Equation Editor in LaTeX](https://latex.codecogs.com/eqneditor/editor.php)
-- [Table Generator in LaTeX](https://www.tablesgenerator.com/)
-
 ## Books
 
 - [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/) Alfred Spector, Peter Norvig, Chris Wiggins, Jeannette M. Wing © 2022.
@@ -15,7 +10,7 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 
 - [Predicting House Prices using Machine Learning](https://medium.com/geekculture/predicting-house-prices-using-machine-learning-24dcfc10abb6)
 
-## Papers
+## Communitys and Newsletters
 
 - [42 Papers](https://42papers.com/)
 - [Papers We Love](https://paperswelove.org/)
@@ -35,6 +30,12 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 
 - [Introduction to Pandas](https://realpython.com/pandas-python-explore-dataset/)
 - [Web Scraping with Python](https://scrapism.lav.io/)
+
+
+## Writing
+
+- [Equation Editor in LaTeX](https://latex.codecogs.com/eqneditor/editor.php)
+- [Table Generator in LaTeX](https://www.tablesgenerator.com/)
 
 # FAQ
 
