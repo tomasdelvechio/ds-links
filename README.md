@@ -2,6 +2,8 @@
 
 A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos los llego a leer, otros quedan dispersos en notas o marcadores de navegadores. La idea de este repo es tenerlos todos compilados y a mano, con alguna categorización mínima.
 
+{:toc}
+
 ## Books
 
 - [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/) Alfred Spector, Peter Norvig, Chris Wiggins, Jeannette M. Wing © 2022.
