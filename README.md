@@ -5,6 +5,10 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 * TOC
 {:toc}
 
+## Articles
+
+- [Correlation Between Mask Compliance and COVID-19 Outcomes in Europe](https://www.cureus.com/articles/93826-correlation-between-mask-compliance-and-covid-19-outcomes-in-europe)
+
 ## Books
 
 - [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/) Alfred Spector, Peter Norvig, Chris Wiggins, Jeannette M. Wing © 2022.
@@ -12,6 +16,10 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 ## Examples
 
 - [Predicting House Prices using Machine Learning](https://medium.com/geekculture/predicting-house-prices-using-machine-learning-24dcfc10abb6)
+- [House Prices Prediction With Regression](https://medium.com/@venkataramanagorle/house-prices-prediction-with-regression-fe673a6dfa85)
+- [Map of Reddit](https://github.com/anvaka/map-of-reddit): Good visualization in graph-mode about Reddits communitys
+- [Predicting udemy course popularity](https://www.kaggle.com/code/kingamarszalkowska/predicting-udemy-course-popularity)
+- [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 
 ## Communitys and Newsletters
 
@@ -33,9 +41,11 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 
 - [Introduction to Pandas](https://realpython.com/pandas-python-explore-dataset/)
 - [Web Scraping with Python](https://scrapism.lav.io/)
+- [How to Deal With Files in Google Colab: Everything You Need to Know](https://neptune.ai/blog/google-colab-dealing-with-files): Good guide about datasets management in Colab, from upload them every time to storage alternatives options.
+- [changing sort in value_counts](https://stackoverflow.com/a/43855492/3792059) - #python #pandas #dataframe
 
 
-## Writing
+## Writing and Latex
 
 - [Equation Editor in LaTeX](https://latex.codecogs.com/eqneditor/editor.php)
 - [Table Generator in LaTeX](https://www.tablesgenerator.com/)
@@ -58,6 +68,6 @@ Es un listado de links, mientras se mantenga simple, todo bien. Trato de dejar e
 
 Ehhh, bueno, sí. 
  - Primero, los links deberian ser a cosas legales. Voy a descartar todo lo que apunte a algun contenido que infrinja licencia de algun tipo. 
- - Segundo, si encontrás algo de tu autoria y no queres que aparezca en este listado, [abrime un issue]((https://github.com/tomasdelvechio/ds-links/issues/new) con la sugerencia o mandame un [PR directamente](https://github.com/tomasdelvechio/ds-links/fork)) y lo saco. Si bien es algo personal, esto queda público.
+ - Segundo, si encontrás algo de tu autoria y no queres que aparezca en este listado, ([abrí un issue](https://github.com/tomasdelvechio/ds-links/issues/new) con la sugerencia o mandame un [PR directamente](https://github.com/tomasdelvechio/ds-links/fork)) y lo saco. Si bien es algo personal, esto queda público.
  - Por último, si algun enlace contiene algun material que YO considere inadecuado u ofensivo, lo quitaré o descartaré su inclusión.
 
