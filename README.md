@@ -5,13 +5,20 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 * TOC
 {:toc}
 
-## Articles
+## Articles and papers
 
 - [Correlation Between Mask Compliance and COVID-19 Outcomes in Europe](https://www.cureus.com/articles/93826-correlation-between-mask-compliance-and-covid-19-outcomes-in-europe)
+- [On discriminative vs. generative classifiers: A comparison of logistic regression and naive bayes](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf) #pdf
 
 ## Books
 
 - [Data Science in Context: Foundations, Challenges, Opportunities](https://datascienceincontext.com/) Alfred Spector, Peter Norvig, Chris Wiggins, Jeannette M. Wing © 2022.
+
+## Courses
+
+- [Lecture Slides from the 2012 Stanford Coursera course](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) #slide
+- [A Short Course on Graphical Models: 2. Structured Representations](http://ai.stanford.edu/~paskin/gm-short-course/lec2.pdf) #pdf #slide
+- [Programa especializado: modelos gráficos de probabilidades](https://www.coursera.org/specializations/probabilistic-graphical-models) #coursera
 
 ## Examples
 
@@ -34,8 +41,13 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 - [Árboles de Decisión](https://pamelapairo.github.io/practica_DT/03_practica.html#1)
 - [Machine Learning Explain](https://mlu-explain.github.io/): exists to teach important machine learning concepts through visual essays in a fun, informative, and accessible manner.
 - [Seeing Theory](https://seeing-theory.brown.edu/): A visual introduction to probability and statistics
+  - [Chapter 3: Probability Distributions](https://seeing-theory.brown.edu/probability-distributions/index.html)
 - [Inferencia Estadistica](https://rpubs.com/nievejuan21/797443)
 - [ANOVA](https://rpubs.com/nievejuan21/851103)
+- [Understanding the Bias-Variance Tradeoff](http://scott.fortmann-roe.com/docs/BiasVariance.html)
+- [La dicotomía sesgo-varianza en modelos de Machine Learning](https://keepler.io/es/2021/03/la-dicotomia-sesgo-varianza-en-modelos-de-machine-learning/)
+- [Maximum Likelihood Estimation VS Maximum A Posterior](https://towardsdatascience.com/mle-vs-map-a989f423ae5c)
+- [PGM 1: Introduction to Probabilistic Graphical Models](https://towardsdatascience.com/introduction-to-probabilistic-graphical-models-7d2c0b4bef19)
 
 ## Tools, Languages and Tutorials
 
@@ -43,6 +55,8 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 - [Web Scraping with Python](https://scrapism.lav.io/)
 - [How to Deal With Files in Google Colab: Everything You Need to Know](https://neptune.ai/blog/google-colab-dealing-with-files): Good guide about datasets management in Colab, from upload them every time to storage alternatives options.
 - [changing sort in value_counts](https://stackoverflow.com/a/43855492/3792059) - #python #pandas #dataframe
+- [Pandas dataframe inside function: pointer or copy?](https://www.reddit.com/r/Python/comments/ajb17i/pandas_dataframe_inside_function_pointer_or_copy/) #question #reddit
+- [python pandas dataframe, is it pass-by-value or pass-by-reference](https://stackoverflow.com/questions/38895768/python-pandas-dataframe-is-it-pass-by-value-or-pass-by-reference) #question #stackoverflow
 
 
 ## Writing and Latex
@@ -54,7 +68,7 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 
 ## ¿Porque existe este repo?
 
-Basicamente me sirve para tener compilado en un solo lugar y sobre todo online, enlaces interesantes o utiles de una disciplina que estoy estudiando.
+Basicamente me sirve para tener compilado en un solo lugar y sobre todo online, enlaces interesantes o utiles de la disciplina Data Science, que estoy estudiando actualmente en posgrado (2022).
 
 ## ¿Puedo aportar un link?
 
