@@ -9,6 +9,8 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 
 - [Correlation Between Mask Compliance and COVID-19 Outcomes in Europe](https://www.cureus.com/articles/93826-correlation-between-mask-compliance-and-covid-19-outcomes-in-europe)
 - [On discriminative vs. generative classifiers: A comparison of logistic regression and naive bayes](https://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf) #pdf
+- [Tackling the Poor Assumptions of Naive Bayes Text Classifiers](https://people.csail.mit.edu/jrennie/papers/icml03-nb.pdf) #pdf
+- [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/abs/1603.02754) #pdf
 
 ## Books
 
@@ -19,6 +21,8 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 - [Lecture Slides from the 2012 Stanford Coursera course](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) #slide
 - [A Short Course on Graphical Models: 2. Structured Representations](http://ai.stanford.edu/~paskin/gm-short-course/lec2.pdf) #pdf #slide
 - [Programa especializado: modelos gráficos de probabilidades](https://www.coursera.org/specializations/probabilistic-graphical-models) #coursera
+- [Laboratorio de Datos - DF - FCEN - UBA](http://materias.df.uba.ar/lda2021c1/171-2/)
+- [Canal del curso "Enfoque estadístico del aprendizaje"](https://www.youtube.com/channel/UC5Rup8Tq90zOekekkNlSdRQ)
 
 ## Examples
 
@@ -48,6 +52,8 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 - [La dicotomía sesgo-varianza en modelos de Machine Learning](https://keepler.io/es/2021/03/la-dicotomia-sesgo-varianza-en-modelos-de-machine-learning/)
 - [Maximum Likelihood Estimation VS Maximum A Posterior](https://towardsdatascience.com/mle-vs-map-a989f423ae5c)
 - [PGM 1: Introduction to Probabilistic Graphical Models](https://towardsdatascience.com/introduction-to-probabilistic-graphical-models-7d2c0b4bef19)
+- [Ensamble learning y Naive Bayes](https://pamelapairo.github.io/maestria_DM/aprendizaje_automatico/ensamble_learning.html#1)
+- [Naive Bayes, Clearly Explained!!!](https://www.youtube.com/watch?v=O2L2Uv9pdDA) #video
 
 ## Tools, Languages and Tutorials
 
@@ -57,7 +63,12 @@ A lo largo de mis estudios estoy juntando una buena cantidad de enlaces, algunos
 - [changing sort in value_counts](https://stackoverflow.com/a/43855492/3792059) - #python #pandas #dataframe
 - [Pandas dataframe inside function: pointer or copy?](https://www.reddit.com/r/Python/comments/ajb17i/pandas_dataframe_inside_function_pointer_or_copy/) #question #reddit
 - [python pandas dataframe, is it pass-by-value or pass-by-reference](https://stackoverflow.com/questions/38895768/python-pandas-dataframe-is-it-pass-by-value-or-pass-by-reference) #question #stackoverflow
-
+- [Mito for Jupyter](https://www.trymito.io/): Python data analysis in _seconds_
+- [PandasGUI](https://pypi.org/project/pandasgui/): A GUI for Pandas DataFrames
+- [Xlwings](https://www.xlwings.org/): Python for Excel and Google Sheets
+- [Featuretools](https://www.featuretools.com/): An open source python framework for automated feature engineering
+- [Faker](https://faker.readthedocs.io/en/master/): Faker is a Python package that generates fake data for you
+- [drawdata.xyz](https://drawdata.xyz/): Draw your Data and Download
 
 ## Writing and Latex
 
